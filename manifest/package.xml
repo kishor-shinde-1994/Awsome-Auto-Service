@@ -6,6 +6,10 @@
     </types>
     <types>
         <members>*</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
         <name>ApexComponent</name>
     </types>
     <types>
@@ -31,6 +35,18 @@
     <types>
         <members>*</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+    <members>Awsome_Auto_Service</members>
+    <name>CustomApplication</name>
     </types>
     <version>51.0</version>
 </Package>
